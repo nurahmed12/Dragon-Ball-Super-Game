@@ -1,26 +1,47 @@
-Dragon Ball Super: Console Battle Game
-Dragon Ball Super: Console Battle Game is a basic turn based fighting game based on Java programming, inspired by the Dragon Ball universe. In this game you choose an amazing fighter and compete against another randomly chosen opponent in a strategy, strength, and lucky battle.
+<h1 align="center"> Dragon Ball Super Console Battle Game </h1>
+<p align="center"><em>A turn-based fighting game built in Java, inspired by the Dragon Ball universe</em></p>
 
-Game Features
-Choose from an iconic list of Dragon Ball characters. 
 
-Turned based combat system with numerous distinct moves.
+---
 
-Special abilities such as Signature Move (+100 damage) and Sensu Beans (+300 HP restore).
+## 🧩 Game Overview
 
-Value based mechanics that affect damage calculating.
+Welcome to the **Dragon Ball Super Console Battle Game**, a retro-style, text-based Java game where you:
+- Choose your legendary **Dragon Ball fighter**
+- Enter turn-based combat
+- Use strategy, luck, and power moves to defeat your opponent!
 
-Opponents are selected at random and moves are for replayability.
+---
 
-Just a simple console-based UI with a retro feel.
+## 🎮 Features
 
-How to Play
-Start the game using the class Main java.
+- 🔓 **Choose iconic characters** like Goku, Vegeta, and more
+- 🌀 **Turn-based battle system** with unique moves
+- 💥 **Signature Move**: Delivers +100 damage
+- 🍃 **Sensu Bean**: Restores +300 HP
+- ⚙️ **Value-based combat mechanics** for calculating damage
+- 🎲 **Random opponents and moves** make every game unique
+- 🖥️ **Retro console UI** gives nostalgic gaming feels
 
-Choose your fighter from the list that is shown.
+---
 
-Fight, during your turn by choosing move codes.
+## 🚀 How to Play
 
-Outsmart your opponent, methods of the healing and high-damage attacks need to be wise.
+1. **Run the game**  
+   Launch the game by running the `Main` class:
+   ```bash
+   javac Main.java
+   java Main
+2. **Choose your fighter**
+Select your warrior from the list of Dragon Ball heroes.
 
-Win by reducing your opponent’s health to zero – or survive dangerous opponents such as Broly and Jiren!
+3. **Engage in turn-based combat**
+During your turn, enter move codes to attack, defend, or heal.
+
+4. **Plan your strategy**
+Use powerful attacks and healing wisely to gain an edge.
+
+5. **Victory!**
+Defeat your opponent by reducing their HP to zero.
+
+⚠️ Beware of fierce enemies like Broly and Jiren – they don’t go down without a fight!
