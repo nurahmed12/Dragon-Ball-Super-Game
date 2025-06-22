@@ -1,4 +1,4 @@
-#Dragon Ball Super: Console Battle Game
+Dragon Ball Super: Console Battle Game
 Dragon Ball Super: Console Battle Game is a basic turn based fighting game based on Java programming, inspired by the Dragon Ball universe. In this game you choose an amazing fighter and compete against another randomly chosen opponent in a strategy, strength, and lucky battle.
 
 Game Features
